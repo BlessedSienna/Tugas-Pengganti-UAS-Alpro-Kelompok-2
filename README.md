@@ -4,7 +4,7 @@ Program manajemen parkir kampus berbasis terminal (CLI) yang dibangun murni meng
 
 Proyek ini dikembangkan menggunakan prinsip *Modular Programming* di mana setiap fitur utama diisolasi ke dalam _file header_ terpisah.
 
-## 👥 Tim Pengembang (Kelompok 23)
+## 👥 Tim Pengembang (Kelompok 2)
 1. **Satria Ramadhan Aulia Rivanka** - [21120124130080]
 2. **Fajar Herdiansyah** - [21120123140142]
 3. **Hafiyyan Dimas Walana** - [21120124140130]
